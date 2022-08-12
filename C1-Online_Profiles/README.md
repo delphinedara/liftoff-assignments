@@ -1,6 +1,4 @@
 # Online Profiles
-
-## Submission Instructions
  
 ### GitHub
 https://github.com/delphinedara
