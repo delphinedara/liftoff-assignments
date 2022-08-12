@@ -7,12 +7,25 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Recipe Tracker App offers step by step instructions on how to make different cuisines. It enables users to store their favorite recipes, edit recipes, and delete recipes they no longer find tasty. In additional, Recipe Tracker allows visitors to browser through recipes without creating an account. 
+
 ### Features
-Include Features here
+* View: Visitors will be able to view all recipes on homepage without logging in
+* User Login: Users will be able to create accounts and log in to the application. Each user will have a profile page
+* Create Recipe: Users will be able to create new recipes when logged in
+* Edit Recipe: Users will be able to edit their own recipes when logged in
+* Delete Recipe: Users will be able to delete their own recipes when logged in
+
 ### Technologies
-Include Technologies here
+* Java
+* Spring Boot
+* MySQL
+* Tailwind CSS
+* Thymeleaf templates
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+ * Using data from a public API
+ * Tailwind CSS
+
 ### Project Tracker
-Link to your Trello board here
+Trello board https://trello.com/b/qGDnEPnJ/liftoff-project-team-sabrina 
